@@ -1,4 +1,4 @@
-# Google_Code_Problem
+# Code_Problem
 # problem1[easy]
 Given an array of elements, return the length of the longest subarray where all its elements are distinct.
 
